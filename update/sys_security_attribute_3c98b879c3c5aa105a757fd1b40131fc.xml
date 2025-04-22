@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_attribute">
+    <sys_security_attribute action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>AllowAppTempateRoleBasedWithMaintRole=true</condition>
+        <description>Auto Created Attribute - ACL_95b2b871c385aa105a757fd1b401310e</description>
+        <is_dynamic>true</is_dynamic>
+        <is_localized>true</is_localized>
+        <is_system>false</is_system>
+        <label>ACL_95b2b871c385aa105a757fd1b401310e</label>
+        <lookup_table/>
+        <lookup_table_column/>
+        <name>x_58872_needit__ACL_95b2b871c385aa105a757fd1b401310e</name>
+        <script/>
+        <sys_class_name>sys_security_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-22 04:29:20</sys_created_on>
+        <sys_id>3c98b879c3c5aa105a757fd1b40131fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit__ACL_95b2b871c385aa105a757fd1b401310e</sys_name>
+        <sys_package display_value="Employee Special Days" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Special Days">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_attribute_3c98b879c3c5aa105a757fd1b40131fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-22 04:29:20</sys_updated_on>
+        <type>compound</type>
+    </sys_security_attribute>
+</record_update>
